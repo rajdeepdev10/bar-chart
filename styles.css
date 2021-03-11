@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+
+#title{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#tooltip{
+    font-family: 'Raleway', sans-serif;
+}
+
+rect:hover{
+    fill: white;
+}
+
+rect{
+    fill: #002664;
+}
